@@ -47,6 +47,15 @@
   display: inline-block;
   margin-top: 18px;
 }
+.logo {
+	width: 100px;
+}
+
+.heading-adjust {
+	margin-top: 15px;
+	color: #fff;
+}
+
 .header-section .logo.top-mar-1 {
   margin-top: 22px;
 }
@@ -61,6 +70,7 @@
 }
 .header-section .logo.mar-3 {
   margin-top: 18px;
+
 }
 .header-section .logo.mar-4 {
   margin-top: 23px;
@@ -73,6 +83,7 @@
 }
 .header-section .logo.mar-7 {
   margin-top: 30px;
+ 
 }
 .header-section .logo.im-mar {
   margin-top: 18px;

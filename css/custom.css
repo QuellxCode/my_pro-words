@@ -183,7 +183,7 @@
 }
 
 .fifty{
-  font-size: 70px; font-weight: 1000; color: black;
+  font-size: 70px; font-weight: 500;
 }
 
 .hourGlassImage{
@@ -195,7 +195,7 @@
 }
 
 .onAllOrder{
-  color: black; font-size: 30px; font-weight: 1000; position: relative;left: -80px; top: 0px;
+  color:#C5C5C5; font-size: 30px; font-weight: 1000; position: relative;
 }
 
 .onAllOrder2{
@@ -203,7 +203,7 @@
 }
 
 .timeLimit{
-  color: red; font-size: 20px; font-weight: 500; font-style: italic; position: relative; bottom: 30px; left: 25px;
+  color: #fe5757; font-size: 20px; font-weight: 500; font-style: italic; position: relative; bottom: 30px; left: 25px;
 }
 .timeLimit2{
   color: red; font-size: 20px; font-weight: 500; font-style: italic; position: relative; bottom: 20px;
