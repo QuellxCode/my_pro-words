@@ -4,6 +4,9 @@
   outline: 0px !important;
 }
 
+.footer-logo-adjust {
+	max-width: 80%;
+}
 /* line 5, ../sass/screen.scss */
 .banner-section {
   background: #000;
@@ -19,7 +22,7 @@
 
 /* line 22, ../sass/screen.scss */
 .header-section img {
-  max-width: 100%;
+  max-width: 218%;
 }
 /* line 25, ../sass/screen.scss */
 .header-section .container {
@@ -678,7 +681,7 @@ box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
   padding: 30px 15px;
 }
 .header-section.white {
-  background-color: #29abe2;
+  background-color: #58b64a;
 }
 .header-section.light {
   background-color: #f5f5f5;
@@ -798,7 +801,7 @@ box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
     transition: all .5s;
   }
   .header-section.white.pin-style.pin {
-    background:#29abe2;
+    background:#58b64a;
   }
   /* line 390, ../sass/screen.scss */
   .header-section.pin-style.before {

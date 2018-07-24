@@ -5656,7 +5656,7 @@ hr.divider-line-fixed-primary {
 
 .slider-but-1 {
 	color: #fff;
-	background: #29abe2;
+	background: #58b64a;
 	border-radius: 3px;
 	padding: 16px 36px;
 	text-align: center;
@@ -5991,8 +5991,8 @@ hr.divider-line-fixed-primary {
 
 .sitebutton-1.sty5 {
 	color: #fff;
-	border: 2px solid #f44336;
-	background: #f44336;
+	border: 1px dashed #000999;
+	background: #58b64a;
 	border-radius: 25px;
 }
 .sitebutton-1.sty5:hover {
@@ -7065,7 +7065,7 @@ img.grayscale {
 	transition: all 0.3s ease;
 }
 .box-hover-text-1:hover {
-	background: #f3b60f;
+	background: #58b64a;
 }
 .box-hover-text-1:hover p {
 	color: #fff;
