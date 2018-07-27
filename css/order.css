@@ -1,0 +1,15 @@
+.reasonToOrder {
+    background-image: linear-gradient(to left, #5f645f, #5e795d, #5d8d5a, #5aa253, #58b64a);
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+/* LIST #2 */
+#list2 { width:195px; }
+#list2 ol { font-style:italic; font-family:Georgia, Times, serif; font-size:24px; color:black;  }
+#list2 ol li p { padding:8px; font-style:normal; font-family:Arial; font-size:13px; color:white; }
+#list2 ol li p em { display:block; font-family: cursive; }
+
+.reasonHeading {
+    font-weight: 500;
+}

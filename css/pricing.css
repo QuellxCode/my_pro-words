@@ -1,0 +1,25 @@
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    text-align: center;
+}
+
+
+.table-pricing th{
+    background-color: #58b64a;
+    color: white;
+}
+
+.btn-order {
+    border-radius: 30px;
+}
+
+.orderbtn {
+    color: white;
+}
+
+.ssl-logo {
+    width: 145px;
+    height: auto;
+}
+ @media(max-width:767px){
+        .table-width{overflow-x:scroll !important;}
+      }
